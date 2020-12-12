@@ -1,7 +1,7 @@
 # tw-minstyle
 TiddlyWiki with minstyle.io
 
-Work in progress !!
+Projet archivé — Nouvelle version 12/2020 https://github.com/silvyn/tw-minstyle/
 
 ## minstyle.io
 
